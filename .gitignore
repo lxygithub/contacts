@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /build
 =======
+=======
+>>>>>>> a21179bafed496ea35066f371c0173861ae44aef
 # Built application files
 *.apk
 *.ap_
@@ -33,4 +36,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+<<<<<<< HEAD
 >>>>>>> 020c66cb741d4b33864921f82c47b7dcf1e67b68
+=======
+>>>>>>> a21179bafed496ea35066f371c0173861ae44aef
